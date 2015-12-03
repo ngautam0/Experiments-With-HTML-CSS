@@ -1,0 +1,22 @@
+li{
+  display: inline;
+}
+
+li a{
+  text-decoration: none;
+  color: grey;
+  padding-left: 10%;
+
+}
+
+body{
+  width=600px;
+}
+
+ul a:hover
+{
+  text-decoration: underline;
+  color: blue;
+  font-size: 18px;
+
+}
